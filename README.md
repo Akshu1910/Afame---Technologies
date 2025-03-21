@@ -1,11 +1,10 @@
-# Objective
 
-Dataset -
+# Dataset -
 Every dataset has a story and this set is pulled from IMDb.com of all the Indian movies on the platform.
 Clean this data by removing missing values or adding average values this process will help to manipulate the
 data to help with your EDA.
 
-Objective -
+# Objective -
 Build a model that predicts the rating of a movie based on features like genre, director, and actors. You
 can use regression techniques to tackle this problem.
 The goal is to analyze historical movie data and develop a model that accurately estimates the rating
